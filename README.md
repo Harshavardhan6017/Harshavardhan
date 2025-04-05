@@ -68,7 +68,7 @@
 
 - 📧 Email: [harshavardhan6017@gmail.com](mailto:harshavardhan6017@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/harshavardhan6017](https://linkedin.com/in/harshavardhan6017)  
-- 🌐 Portfolio: [View Portfolio](https://portfolio-l1lanfo6w-harshavardhan6017s-projects.vercel.app)
+- 🌐 Portfolio: [View Portfolio](https://portfolio-delta-three-94.vercel.app/)
 
 ---
 
