@@ -48,10 +48,11 @@
 
 ### 🔹 [Dappr Landing Page](https://github.com/Harshavardhan6017/Dappr-Landing-page)
 > A responsive landing page built with HTML & CSS  
-🔗 [Live Demo](https://harshavardhan6017.github.io/Dappr-Landing-page)
+🔗 [Live Demo Coming soon](https://harshavardhan6017.github.io/Dappr-Landing-page)
 
 ### 🔹 [Calculator App](https://github.com/Harshavardhan6017/Calculator-App)
 > A basic calculator created using vanilla JS with modern UI
+>🔗 [Live Demo](https://calculator-app-seven-gamma.vercel.app/) 
 
 ---
 
