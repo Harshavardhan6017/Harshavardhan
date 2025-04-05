@@ -67,7 +67,7 @@
 ## 📬 Let’s Connect
 
 - 📧 Email: [namalaharshavardhan@gmail.com](mailto:namalaharshavardhan@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/harshavardhan6017](https://www.linkedin.com/in/harsha-vardhan-360b2b249/)  
+- 💼 LinkedIn: [linkedin.com/in/Harshavardhan](https://www.linkedin.com/in/harsha-vardhan-360b2b249/)  
 - 🌐 Portfolio: [View Portfolio](https://portfolio-delta-three-94.vercel.app/)
 
 ---
